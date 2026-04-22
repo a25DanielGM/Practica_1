@@ -17,3 +17,6 @@ def main():
     except ValueError:
         print("Non é un número válido")
         sys.exit(1)
+
+if __name__ == "__main__":
+    main()
